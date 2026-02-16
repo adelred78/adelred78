@@ -75,4 +75,4 @@ Je suis actuellement étudiant en première année de Bachelor Informatique à *
 ### 📫 Me Contacter
 
 - 📧 **Email :** redjemitechkraft@gmail.com
-- 💼 **LinkedIn :** [Adel Redjemi](www.linkedin.com/in/m-redjemi)
+- 💼 **LinkedIn :** [Adel Redjemi](https://www.linkedin.com/in/m-redjemi/)
