@@ -34,7 +34,7 @@ Je suis actuellement étudiant en première année de Bachelor Informatique à *
 ---
 
 ### 📁 Projets Principaux
-### 🌱 HydroTrack - Plateforme IoT de surveillance d'humidité du sol
+#### 🌱 HydroTrack - Plateforme IoT de surveillance d'humidité du sol
 
 **Description :**  
 Développement d'une plateforme IoT permettant de surveiller l'humidité du sol grâce à un capteur connecté à un ESP32.  
