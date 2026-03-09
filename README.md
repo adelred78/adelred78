@@ -34,6 +34,18 @@ Je suis actuellement étudiant en première année de Bachelor Informatique à *
 ---
 
 ### 📁 Projets Principaux
+### 🌱 HydroTrack - Plateforme IoT de surveillance d'humidité du sol
+
+**Description :**  
+Développement d'une plateforme IoT permettant de surveiller l'humidité du sol grâce à un capteur connecté à un ESP32.  
+Les données collectées sont analysées et combinées avec les informations météorologiques afin d'envoyer une **notification à l'utilisateur lorsqu'il est nécessaire d'arroser**.  
+L'utilisateur peut consulter les mesures et l'historique via un tableau de bord web.
+
+**Technologies :**  
+ESP32, Node-RED, Supabase (PostgreSQL), JavaScript, HTML, CSS, OpenWeather API, Vercel, Netlify.
+
+**Rôle :**  
+Chef de projet (organisation et coordination du projet), développement web front-end et back-end, conception de la base de données et déploiement de l'application sur Vercel et Netlify.
 
 #### 🚲 SmartBike - E-commerce
 
