@@ -4,8 +4,6 @@
 
 Je suis actuellement étudiant en première année de Bachelor Informatique à **l'EPSI Paris**. Passionné par la création de solutions numériques, je navigue entre le développement web, la configuration d'infrastructures réseaux et l'électronique.
 
-🎯 **En recherche active :** Je suis à la recherche d'un **stage de 2 mois à partir de la mi-avril** pour participer à des projets concrets au sein d'une équipe technique (Mobilité : Île-de-France).
-
 ---
 
 ### 🔭 Ce que je fais actuellement
