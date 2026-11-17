@@ -12,7 +12,7 @@ Je construis des applications web de bout en bout et je me spécialise en cybers
 
 ## En ce moment
 
-- **MonJobTracker** : je développe et fais évoluer mon SaaS de suivi de candidatures pour les étudiants, en ligne sur [monjobtracker.app]([https://monjobtracker.app](https://monjobtracker.vercel.app/)).
+- **MonJobTracker** : je développe et fais évoluer mon SaaS de suivi de candidatures pour les étudiants, en ligne sur [https://monjobtracker.vercel.app/](https://monjobtracker.vercel.app/)).
 - **EPITECH** : projets de groupe en cybersécurité, en IA appliquée et en modernisation logicielle.
 - **CS50x (Harvard)** : je renforce mes bases en algorithmique et en C.
 - **Enseignement** : je donne des cours de programmation (Scratch, Python) à des enfants avec CODii.
