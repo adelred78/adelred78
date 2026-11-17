@@ -90,4 +90,4 @@ Chef de projet. Un capteur d'humidité relié à un ESP32 mesure le sol ; les me
 
 ## Langues
 
-Français courant · Anglais intermédiaire, en progression
+Français courant · Anglais avancé, en progression
